@@ -176,6 +176,7 @@ img{
     margin-top:2rem;
     border-collapse: collapse;
     border-spacing:0;
+    overflow:auto;
 }
 .table thead th{
     text-transform:uppercase;
