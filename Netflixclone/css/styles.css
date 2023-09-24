@@ -170,8 +170,8 @@ img{
     align-items:center;
     text-align:center;
 }
-#tab-3-content > table{
-    overflow:scroll;
+#tab-3-content{
+    overflow:scroll !important;
 }    
 
 .table{
