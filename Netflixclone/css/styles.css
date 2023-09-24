@@ -96,7 +96,7 @@ img{
     text-transform: uppercase;
     color:#fff;
     font-weight: 400;
-    font-size: 1rem;
+    font-size: 1.8rem;
     line-height: 1.25;
     margin:0 0 2rem;
  }
@@ -253,6 +253,7 @@ img{
 .btn {
     display: inline-block;
     background: var(--primary-color);
+    position:relative;
     color:#fff;
     padding:0.4rem 1.3rem;
     font-size:1rem;
